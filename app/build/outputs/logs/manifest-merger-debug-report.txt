@@ -1,0 +1,327 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/unyscape/Desktop/Arpan_Workspace/SecurityApp7/app/src/main/AndroidManifest.xml:2:1-95:12
+INJECTED from /Users/unyscape/Desktop/Arpan_Workspace/SecurityApp7/app/src/main/AndroidManifest.xml:2:1-95:12
+INJECTED from /Users/unyscape/Desktop/Arpan_Workspace/SecurityApp7/app/src/main/AndroidManifest.xml:2:1-95:12
+INJECTED from /Users/unyscape/Desktop/Arpan_Workspace/SecurityApp7/app/src/main/AndroidManifest.xml:2:1-95:12
+MERGED from [com.google.android.gms:play-services-analytics:15.0.0] /Users/unyscape/.gradle/caches/transforms-1/files-1.1/play-services-analytics-15.0.0.aar/a5c2de98cc4164d9f73363150915e4e3/AndroidManifest.xml:17:1-47:12
+MERGED from [com.google.android.gms:play-services-analytics-impl:15.0.0] /Users/unyscape/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-15.0.0.aar/6b2a7fd3cc00cd7e046eff2971a199e0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.android.gms:play-services-base:15.0.0] /Users/unyscape/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.0.aar/19c1b003258fcfacfa4bf6ccceca4a5f/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-stats:15.0.0] /Users/unyscape/.gradle/caches/transforms-1/files-1.1/play-services-stats-15.0.0.aar/9d13ef30e914b3590faf53807531e270/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.0] /Users/unyscape/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-15.0.0.aar/b39696a637e038d2ef06f9a60475deb8/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:15.0.0] /Users/unyscape/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.0.aar/0120d69344362e8347d5a47cdea1bf9c/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:15.0.0] /Users/unyscape/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.0.aar/608253c7e026f363fa3b7584622228ba/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] /Users/unyscape/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/03f7b4285e84a5d3b3a6bca04c331949/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:multidex:1.0.2] /Users/unyscape/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/4ea6f2b96c2188ce268f0084f1a6f209/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/unyscape/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/0903a2f0d2faa2fc0d50c7f0c728408b/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/unyscape/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/d541c88d7ffd31317cac118e8ded68e4/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/unyscape/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/c2ae2c77933ae6f5f41f3e0352543a7e/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/unyscape/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/3fd5270a59c4bbb4e3feb5c457498389/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] /Users/unyscape/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/ee6690253ede12139f5837aeb0ef0580/AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.android.gms:play-services-measurement-base:15.0.0] /Users/unyscape/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-15.0.0.aar/c12cfbf305a5904ab92214ba943ecebb/AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/unyscape/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/ee0d2f0c9d3eaeaecd7b8ae9fa10a009/AndroidManifest.xml:17:1-30:12
+INJECTED from /Users/unyscape/Desktop/Arpan_Workspace/SecurityApp7/app/src/main/AndroidManifest.xml:2:1-95:12
+INJECTED from /Users/unyscape/Desktop/Arpan_Workspace/SecurityApp7/app/src/main/AndroidManifest.xml:2:1-95:12
+INJECTED from /Users/unyscape/Desktop/Arpan_Workspace/SecurityApp7/app/src/main/AndroidManifest.xml:2:1-95:12
+	package
+		ADDED from /Users/unyscape/Desktop/Arpan_Workspace/SecurityApp7/app/src/main/AndroidManifest.xml:3:5-43
+		INJECTED from /Users/unyscape/Desktop/Arpan_Workspace/SecurityApp7/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/unyscape/Desktop/Arpan_Workspace/SecurityApp7/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/unyscape/Desktop/Arpan_Workspace/SecurityApp7/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /Users/unyscape/Desktop/Arpan_Workspace/SecurityApp7/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/unyscape/Desktop/Arpan_Workspace/SecurityApp7/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/unyscape/Desktop/Arpan_Workspace/SecurityApp7/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/unyscape/Desktop/Arpan_Workspace/SecurityApp7/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/unyscape/Desktop/Arpan_Workspace/SecurityApp7/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/unyscape/Desktop/Arpan_Workspace/SecurityApp7/app/src/main/AndroidManifest.xml
+uses-sdk
+ADDED from /Users/unyscape/Desktop/Arpan_Workspace/SecurityApp7/app/src/main/AndroidManifest.xml:7:5-9:41
+INJECTED from /Users/unyscape/Desktop/Arpan_Workspace/SecurityApp7/app/src/main/AndroidManifest.xml:7:5-9:41
+INJECTED from /Users/unyscape/Desktop/Arpan_Workspace/SecurityApp7/app/src/main/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-analytics:15.0.0] /Users/unyscape/.gradle/caches/transforms-1/files-1.1/play-services-analytics-15.0.0.aar/a5c2de98cc4164d9f73363150915e4e3/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics:15.0.0] /Users/unyscape/.gradle/caches/transforms-1/files-1.1/play-services-analytics-15.0.0.aar/a5c2de98cc4164d9f73363150915e4e3/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics-impl:15.0.0] /Users/unyscape/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-15.0.0.aar/6b2a7fd3cc00cd7e046eff2971a199e0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics-impl:15.0.0] /Users/unyscape/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-15.0.0.aar/6b2a7fd3cc00cd7e046eff2971a199e0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.0] /Users/unyscape/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.0.aar/19c1b003258fcfacfa4bf6ccceca4a5f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.0] /Users/unyscape/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.0.aar/19c1b003258fcfacfa4bf6ccceca4a5f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-stats:15.0.0] /Users/unyscape/.gradle/caches/transforms-1/files-1.1/play-services-stats-15.0.0.aar/9d13ef30e914b3590faf53807531e270/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:15.0.0] /Users/unyscape/.gradle/caches/transforms-1/files-1.1/play-services-stats-15.0.0.aar/9d13ef30e914b3590faf53807531e270/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.0] /Users/unyscape/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-15.0.0.aar/b39696a637e038d2ef06f9a60475deb8/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.0] /Users/unyscape/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-15.0.0.aar/b39696a637e038d2ef06f9a60475deb8/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.0] /Users/unyscape/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.0.aar/0120d69344362e8347d5a47cdea1bf9c/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.0] /Users/unyscape/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.0.aar/0120d69344362e8347d5a47cdea1bf9c/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.0] /Users/unyscape/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.0.aar/608253c7e026f363fa3b7584622228ba/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.0] /Users/unyscape/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.0.aar/608253c7e026f363fa3b7584622228ba/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] /Users/unyscape/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/03f7b4285e84a5d3b3a6bca04c331949/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /Users/unyscape/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/03f7b4285e84a5d3b3a6bca04c331949/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:multidex:1.0.2] /Users/unyscape/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/4ea6f2b96c2188ce268f0084f1a6f209/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.2] /Users/unyscape/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/4ea6f2b96c2188ce268f0084f1a6f209/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/unyscape/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/0903a2f0d2faa2fc0d50c7f0c728408b/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/unyscape/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/0903a2f0d2faa2fc0d50c7f0c728408b/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/unyscape/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/d541c88d7ffd31317cac118e8ded68e4/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/unyscape/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/d541c88d7ffd31317cac118e8ded68e4/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/unyscape/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/c2ae2c77933ae6f5f41f3e0352543a7e/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/unyscape/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/c2ae2c77933ae6f5f41f3e0352543a7e/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/unyscape/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/3fd5270a59c4bbb4e3feb5c457498389/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/unyscape/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/3fd5270a59c4bbb4e3feb5c457498389/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /Users/unyscape/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/ee6690253ede12139f5837aeb0ef0580/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /Users/unyscape/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/ee6690253ede12139f5837aeb0ef0580/AndroidManifest.xml:21:5-23:58
+MERGED from [com.google.android.gms:play-services-measurement-base:15.0.0] /Users/unyscape/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-15.0.0.aar/c12cfbf305a5904ab92214ba943ecebb/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:15.0.0] /Users/unyscape/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-15.0.0.aar/c12cfbf305a5904ab92214ba943ecebb/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/unyscape/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/ee0d2f0c9d3eaeaecd7b8ae9fa10a009/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/unyscape/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/ee0d2f0c9d3eaeaecd7b8ae9fa10a009/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/unyscape/Desktop/Arpan_Workspace/SecurityApp7/app/src/main/AndroidManifest.xml:7:5-9:41
+INJECTED from /Users/unyscape/Desktop/Arpan_Workspace/SecurityApp7/app/src/main/AndroidManifest.xml:7:5-9:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:26.1.0] /Users/unyscape/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/03f7b4285e84a5d3b3a6bca04c331949/AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		ADDED from /Users/unyscape/Desktop/Arpan_Workspace/SecurityApp7/app/src/main/AndroidManifest.xml:9:9-38
+		INJECTED from /Users/unyscape/Desktop/Arpan_Workspace/SecurityApp7/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/unyscape/Desktop/Arpan_Workspace/SecurityApp7/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/unyscape/Desktop/Arpan_Workspace/SecurityApp7/app/src/main/AndroidManifest.xml:8:9-35
+		INJECTED from /Users/unyscape/Desktop/Arpan_Workspace/SecurityApp7/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/unyscape/Desktop/Arpan_Workspace/SecurityApp7/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/unyscape/Desktop/Arpan_Workspace/SecurityApp7/app/src/main/AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-analytics:15.0.0] /Users/unyscape/.gradle/caches/transforms-1/files-1.1/play-services-analytics-15.0.0.aar/a5c2de98cc4164d9f73363150915e4e3/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-analytics:15.0.0] /Users/unyscape/.gradle/caches/transforms-1/files-1.1/play-services-analytics-15.0.0.aar/a5c2de98cc4164d9f73363150915e4e3/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:15.0.0] /Users/unyscape/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-15.0.0.aar/6b2a7fd3cc00cd7e046eff2971a199e0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:15.0.0] /Users/unyscape/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-15.0.0.aar/6b2a7fd3cc00cd7e046eff2971a199e0/AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from /Users/unyscape/Desktop/Arpan_Workspace/SecurityApp7/app/src/main/AndroidManifest.xml:11:22-64
+uses-permission#android.permission.CAMERA
+ADDED from /Users/unyscape/Desktop/Arpan_Workspace/SecurityApp7/app/src/main/AndroidManifest.xml:12:5-65
+	android:name
+		ADDED from /Users/unyscape/Desktop/Arpan_Workspace/SecurityApp7/app/src/main/AndroidManifest.xml:12:22-62
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/unyscape/Desktop/Arpan_Workspace/SecurityApp7/app/src/main/AndroidManifest.xml:13:5-79
+MERGED from [com.google.android.gms:play-services-analytics:15.0.0] /Users/unyscape/.gradle/caches/transforms-1/files-1.1/play-services-analytics-15.0.0.aar/a5c2de98cc4164d9f73363150915e4e3/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-analytics:15.0.0] /Users/unyscape/.gradle/caches/transforms-1/files-1.1/play-services-analytics-15.0.0.aar/a5c2de98cc4164d9f73363150915e4e3/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-analytics-impl:15.0.0] /Users/unyscape/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-15.0.0.aar/6b2a7fd3cc00cd7e046eff2971a199e0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-analytics-impl:15.0.0] /Users/unyscape/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-15.0.0.aar/6b2a7fd3cc00cd7e046eff2971a199e0/AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from /Users/unyscape/Desktop/Arpan_Workspace/SecurityApp7/app/src/main/AndroidManifest.xml:13:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/unyscape/Desktop/Arpan_Workspace/SecurityApp7/app/src/main/AndroidManifest.xml:14:5-76
+	android:name
+		ADDED from /Users/unyscape/Desktop/Arpan_Workspace/SecurityApp7/app/src/main/AndroidManifest.xml:14:22-73
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/unyscape/Desktop/Arpan_Workspace/SecurityApp7/app/src/main/AndroidManifest.xml:15:5-79
+	android:name
+		ADDED from /Users/unyscape/Desktop/Arpan_Workspace/SecurityApp7/app/src/main/AndroidManifest.xml:15:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/unyscape/Desktop/Arpan_Workspace/SecurityApp7/app/src/main/AndroidManifest.xml:16:5-81
+	android:name
+		ADDED from /Users/unyscape/Desktop/Arpan_Workspace/SecurityApp7/app/src/main/AndroidManifest.xml:16:22-78
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/unyscape/Desktop/Arpan_Workspace/SecurityApp7/app/src/main/AndroidManifest.xml:17:5-81
+	android:name
+		ADDED from /Users/unyscape/Desktop/Arpan_Workspace/SecurityApp7/app/src/main/AndroidManifest.xml:17:22-78
+uses-feature#android.hardware.camera
+ADDED from /Users/unyscape/Desktop/Arpan_Workspace/SecurityApp7/app/src/main/AndroidManifest.xml:19:5-60
+	android:name
+		ADDED from /Users/unyscape/Desktop/Arpan_Workspace/SecurityApp7/app/src/main/AndroidManifest.xml:19:19-57
+uses-feature#android.hardware.camera.front
+ADDED from /Users/unyscape/Desktop/Arpan_Workspace/SecurityApp7/app/src/main/AndroidManifest.xml:20:5-22:36
+	android:required
+		ADDED from /Users/unyscape/Desktop/Arpan_Workspace/SecurityApp7/app/src/main/AndroidManifest.xml:22:9-33
+	android:name
+		ADDED from /Users/unyscape/Desktop/Arpan_Workspace/SecurityApp7/app/src/main/AndroidManifest.xml:21:9-53
+application
+ADDED from /Users/unyscape/Desktop/Arpan_Workspace/SecurityApp7/app/src/main/AndroidManifest.xml:24:5-93:19
+MERGED from [com.google.android.gms:play-services-analytics:15.0.0] /Users/unyscape/.gradle/caches/transforms-1/files-1.1/play-services-analytics-15.0.0.aar/a5c2de98cc4164d9f73363150915e4e3/AndroidManifest.xml:29:5-45:19
+MERGED from [com.google.android.gms:play-services-analytics:15.0.0] /Users/unyscape/.gradle/caches/transforms-1/files-1.1/play-services-analytics-15.0.0.aar/a5c2de98cc4164d9f73363150915e4e3/AndroidManifest.xml:29:5-45:19
+MERGED from [com.google.android.gms:play-services-analytics-impl:15.0.0] /Users/unyscape/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-15.0.0.aar/6b2a7fd3cc00cd7e046eff2971a199e0/AndroidManifest.xml:29:5-20
+MERGED from [com.google.android.gms:play-services-analytics-impl:15.0.0] /Users/unyscape/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-15.0.0.aar/6b2a7fd3cc00cd7e046eff2971a199e0/AndroidManifest.xml:29:5-20
+MERGED from [com.google.android.gms:play-services-base:15.0.0] /Users/unyscape/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.0.aar/19c1b003258fcfacfa4bf6ccceca4a5f/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:15.0.0] /Users/unyscape/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.0.aar/19c1b003258fcfacfa4bf6ccceca4a5f/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-stats:15.0.0] /Users/unyscape/.gradle/caches/transforms-1/files-1.1/play-services-stats-15.0.0.aar/9d13ef30e914b3590faf53807531e270/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:15.0.0] /Users/unyscape/.gradle/caches/transforms-1/files-1.1/play-services-stats-15.0.0.aar/9d13ef30e914b3590faf53807531e270/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.0] /Users/unyscape/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-15.0.0.aar/b39696a637e038d2ef06f9a60475deb8/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.0] /Users/unyscape/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-15.0.0.aar/b39696a637e038d2ef06f9a60475deb8/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:15.0.0] /Users/unyscape/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.0.aar/0120d69344362e8347d5a47cdea1bf9c/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:15.0.0] /Users/unyscape/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.0.aar/0120d69344362e8347d5a47cdea1bf9c/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:15.0.0] /Users/unyscape/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.0.aar/608253c7e026f363fa3b7584622228ba/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:15.0.0] /Users/unyscape/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.0.aar/608253c7e026f363fa3b7584622228ba/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/unyscape/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/03f7b4285e84a5d3b3a6bca04c331949/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/unyscape/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/03f7b4285e84a5d3b3a6bca04c331949/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/unyscape/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/0903a2f0d2faa2fc0d50c7f0c728408b/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/unyscape/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/0903a2f0d2faa2fc0d50c7f0c728408b/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/unyscape/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/d541c88d7ffd31317cac118e8ded68e4/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/unyscape/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/d541c88d7ffd31317cac118e8ded68e4/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/unyscape/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/c2ae2c77933ae6f5f41f3e0352543a7e/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/unyscape/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/c2ae2c77933ae6f5f41f3e0352543a7e/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/unyscape/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/3fd5270a59c4bbb4e3feb5c457498389/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/unyscape/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/3fd5270a59c4bbb4e3feb5c457498389/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/unyscape/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/ee6690253ede12139f5837aeb0ef0580/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/unyscape/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/ee6690253ede12139f5837aeb0ef0580/AndroidManifest.xml:25:5-29:19
+MERGED from [com.google.android.gms:play-services-measurement-base:15.0.0] /Users/unyscape/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-15.0.0.aar/c12cfbf305a5904ab92214ba943ecebb/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:15.0.0] /Users/unyscape/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-15.0.0.aar/c12cfbf305a5904ab92214ba943ecebb/AndroidManifest.xml:22:5-20
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/unyscape/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/ee0d2f0c9d3eaeaecd7b8ae9fa10a009/AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/unyscape/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/ee0d2f0c9d3eaeaecd7b8ae9fa10a009/AndroidManifest.xml:24:5-28:19
+	android:label
+		ADDED from /Users/unyscape/Desktop/Arpan_Workspace/SecurityApp7/app/src/main/AndroidManifest.xml:28:9-41
+	android:icon
+		ADDED from /Users/unyscape/Desktop/Arpan_Workspace/SecurityApp7/app/src/main/AndroidManifest.xml:27:9-42
+	android:allowBackup
+		ADDED from /Users/unyscape/Desktop/Arpan_Workspace/SecurityApp7/app/src/main/AndroidManifest.xml:26:9-35
+	android:theme
+		ADDED from /Users/unyscape/Desktop/Arpan_Workspace/SecurityApp7/app/src/main/AndroidManifest.xml:29:9-40
+	android:name
+		ADDED from /Users/unyscape/Desktop/Arpan_Workspace/SecurityApp7/app/src/main/AndroidManifest.xml:25:9-71
+activity#com.sixdegreesit.securityapp.SplashActivity
+ADDED from /Users/unyscape/Desktop/Arpan_Workspace/SecurityApp7/app/src/main/AndroidManifest.xml:30:9-40:20
+	android:screenOrientation
+		ADDED from /Users/unyscape/Desktop/Arpan_Workspace/SecurityApp7/app/src/main/AndroidManifest.xml:33:13-49
+	android:label
+		ADDED from /Users/unyscape/Desktop/Arpan_Workspace/SecurityApp7/app/src/main/AndroidManifest.xml:32:13-45
+	android:theme
+		ADDED from /Users/unyscape/Desktop/Arpan_Workspace/SecurityApp7/app/src/main/AndroidManifest.xml:34:13-60
+	android:name
+		ADDED from /Users/unyscape/Desktop/Arpan_Workspace/SecurityApp7/app/src/main/AndroidManifest.xml:31:13-71
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/unyscape/Desktop/Arpan_Workspace/SecurityApp7/app/src/main/AndroidManifest.xml:35:13-39:29
+action#android.intent.action.MAIN
+ADDED from /Users/unyscape/Desktop/Arpan_Workspace/SecurityApp7/app/src/main/AndroidManifest.xml:36:17-69
+	android:name
+		ADDED from /Users/unyscape/Desktop/Arpan_Workspace/SecurityApp7/app/src/main/AndroidManifest.xml:36:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/unyscape/Desktop/Arpan_Workspace/SecurityApp7/app/src/main/AndroidManifest.xml:38:17-77
+	android:name
+		ADDED from /Users/unyscape/Desktop/Arpan_Workspace/SecurityApp7/app/src/main/AndroidManifest.xml:38:27-74
+activity#com.sixdegreesit.securityapp.LoginActivity
+ADDED from /Users/unyscape/Desktop/Arpan_Workspace/SecurityApp7/app/src/main/AndroidManifest.xml:41:9-53:20
+	android:screenOrientation
+		ADDED from /Users/unyscape/Desktop/Arpan_Workspace/SecurityApp7/app/src/main/AndroidManifest.xml:43:13-49
+	android:theme
+		ADDED from /Users/unyscape/Desktop/Arpan_Workspace/SecurityApp7/app/src/main/AndroidManifest.xml:44:13-60
+	android:name
+		ADDED from /Users/unyscape/Desktop/Arpan_Workspace/SecurityApp7/app/src/main/AndroidManifest.xml:42:13-70
+activity#com.sixdegreesit.securityapp.GaurdProfile
+ADDED from /Users/unyscape/Desktop/Arpan_Workspace/SecurityApp7/app/src/main/AndroidManifest.xml:54:9-57:20
+	android:screenOrientation
+		ADDED from /Users/unyscape/Desktop/Arpan_Workspace/SecurityApp7/app/src/main/AndroidManifest.xml:56:13-49
+	android:name
+		ADDED from /Users/unyscape/Desktop/Arpan_Workspace/SecurityApp7/app/src/main/AndroidManifest.xml:55:13-69
+activity#com.sixdegreesit.securityapp.MainActivity
+ADDED from /Users/unyscape/Desktop/Arpan_Workspace/SecurityApp7/app/src/main/AndroidManifest.xml:58:9-61:20
+	android:screenOrientation
+		ADDED from /Users/unyscape/Desktop/Arpan_Workspace/SecurityApp7/app/src/main/AndroidManifest.xml:60:13-49
+	android:name
+		ADDED from /Users/unyscape/Desktop/Arpan_Workspace/SecurityApp7/app/src/main/AndroidManifest.xml:59:13-69
+activity#com.sixdegreesit.securityapp.CustomInspection
+ADDED from /Users/unyscape/Desktop/Arpan_Workspace/SecurityApp7/app/src/main/AndroidManifest.xml:62:9-65:20
+	android:screenOrientation
+		ADDED from /Users/unyscape/Desktop/Arpan_Workspace/SecurityApp7/app/src/main/AndroidManifest.xml:64:13-49
+	android:name
+		ADDED from /Users/unyscape/Desktop/Arpan_Workspace/SecurityApp7/app/src/main/AndroidManifest.xml:63:13-73
+activity#com.sixdegreesit.securityapp.AndroidCameraExample
+ADDED from /Users/unyscape/Desktop/Arpan_Workspace/SecurityApp7/app/src/main/AndroidManifest.xml:66:9-69:20
+	android:screenOrientation
+		ADDED from /Users/unyscape/Desktop/Arpan_Workspace/SecurityApp7/app/src/main/AndroidManifest.xml:68:13-49
+	android:name
+		ADDED from /Users/unyscape/Desktop/Arpan_Workspace/SecurityApp7/app/src/main/AndroidManifest.xml:67:13-77
+activity#com.sixdegreesit.securityapp.GaurdDetails
+ADDED from /Users/unyscape/Desktop/Arpan_Workspace/SecurityApp7/app/src/main/AndroidManifest.xml:70:9-73:20
+	android:screenOrientation
+		ADDED from /Users/unyscape/Desktop/Arpan_Workspace/SecurityApp7/app/src/main/AndroidManifest.xml:72:13-49
+	android:name
+		ADDED from /Users/unyscape/Desktop/Arpan_Workspace/SecurityApp7/app/src/main/AndroidManifest.xml:71:13-69
+activity#com.sixdegreesit.securityapp.Inspection
+ADDED from /Users/unyscape/Desktop/Arpan_Workspace/SecurityApp7/app/src/main/AndroidManifest.xml:74:9-77:20
+	android:screenOrientation
+		ADDED from /Users/unyscape/Desktop/Arpan_Workspace/SecurityApp7/app/src/main/AndroidManifest.xml:76:13-49
+	android:name
+		ADDED from /Users/unyscape/Desktop/Arpan_Workspace/SecurityApp7/app/src/main/AndroidManifest.xml:75:13-67
+activity#com.sixdegreesit.securityapp.FieldInspectionImage
+ADDED from /Users/unyscape/Desktop/Arpan_Workspace/SecurityApp7/app/src/main/AndroidManifest.xml:78:9-81:20
+	android:screenOrientation
+		ADDED from /Users/unyscape/Desktop/Arpan_Workspace/SecurityApp7/app/src/main/AndroidManifest.xml:80:13-49
+	android:name
+		ADDED from /Users/unyscape/Desktop/Arpan_Workspace/SecurityApp7/app/src/main/AndroidManifest.xml:79:13-77
+activity#com.sixdegreesit.securityapp.FieldInspectionText
+ADDED from /Users/unyscape/Desktop/Arpan_Workspace/SecurityApp7/app/src/main/AndroidManifest.xml:82:9-85:20
+	android:screenOrientation
+		ADDED from /Users/unyscape/Desktop/Arpan_Workspace/SecurityApp7/app/src/main/AndroidManifest.xml:84:13-49
+	android:name
+		ADDED from /Users/unyscape/Desktop/Arpan_Workspace/SecurityApp7/app/src/main/AndroidManifest.xml:83:13-76
+meta-data#com.google.android.gms.version
+ADDED from /Users/unyscape/Desktop/Arpan_Workspace/SecurityApp7/app/src/main/AndroidManifest.xml:87:9-89:69
+MERGED from [com.google.android.gms:play-services-basement:15.0.0] /Users/unyscape/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.0.aar/608253c7e026f363fa3b7584622228ba/AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:15.0.0] /Users/unyscape/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.0.aar/608253c7e026f363fa3b7584622228ba/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from /Users/unyscape/Desktop/Arpan_Workspace/SecurityApp7/app/src/main/AndroidManifest.xml:89:13-66
+	android:name
+		ADDED from /Users/unyscape/Desktop/Arpan_Workspace/SecurityApp7/app/src/main/AndroidManifest.xml:88:13-58
+meta-data#com.google.android.gms.analytics.globalConfigResource
+ADDED from /Users/unyscape/Desktop/Arpan_Workspace/SecurityApp7/app/src/main/AndroidManifest.xml:90:9-92:54
+	android:resource
+		ADDED from /Users/unyscape/Desktop/Arpan_Workspace/SecurityApp7/app/src/main/AndroidManifest.xml:92:13-51
+	android:name
+		ADDED from /Users/unyscape/Desktop/Arpan_Workspace/SecurityApp7/app/src/main/AndroidManifest.xml:91:13-81
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-analytics:15.0.0] /Users/unyscape/.gradle/caches/transforms-1/files-1.1/play-services-analytics-15.0.0.aar/a5c2de98cc4164d9f73363150915e4e3/AndroidManifest.xml:27:5-68
+MERGED from [com.google.android.gms:play-services-analytics-impl:15.0.0] /Users/unyscape/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-15.0.0.aar/6b2a7fd3cc00cd7e046eff2971a199e0/AndroidManifest.xml:27:5-68
+MERGED from [com.google.android.gms:play-services-analytics-impl:15.0.0] /Users/unyscape/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-15.0.0.aar/6b2a7fd3cc00cd7e046eff2971a199e0/AndroidManifest.xml:27:5-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:15.0.0] /Users/unyscape/.gradle/caches/transforms-1/files-1.1/play-services-analytics-15.0.0.aar/a5c2de98cc4164d9f73363150915e4e3/AndroidManifest.xml:27:22-65
+receiver#com.google.android.gms.analytics.AnalyticsReceiver
+ADDED from [com.google.android.gms:play-services-analytics:15.0.0] /Users/unyscape/.gradle/caches/transforms-1/files-1.1/play-services-analytics-15.0.0.aar/a5c2de98cc4164d9f73363150915e4e3/AndroidManifest.xml:30:9-34:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-analytics:15.0.0] /Users/unyscape/.gradle/caches/transforms-1/files-1.1/play-services-analytics-15.0.0.aar/a5c2de98cc4164d9f73363150915e4e3/AndroidManifest.xml:32:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-analytics:15.0.0] /Users/unyscape/.gradle/caches/transforms-1/files-1.1/play-services-analytics-15.0.0.aar/a5c2de98cc4164d9f73363150915e4e3/AndroidManifest.xml:33:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:15.0.0] /Users/unyscape/.gradle/caches/transforms-1/files-1.1/play-services-analytics-15.0.0.aar/a5c2de98cc4164d9f73363150915e4e3/AndroidManifest.xml:31:13-78
+service#com.google.android.gms.analytics.AnalyticsService
+ADDED from [com.google.android.gms:play-services-analytics:15.0.0] /Users/unyscape/.gradle/caches/transforms-1/files-1.1/play-services-analytics-15.0.0.aar/a5c2de98cc4164d9f73363150915e4e3/AndroidManifest.xml:36:9-39:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-analytics:15.0.0] /Users/unyscape/.gradle/caches/transforms-1/files-1.1/play-services-analytics-15.0.0.aar/a5c2de98cc4164d9f73363150915e4e3/AndroidManifest.xml:38:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-analytics:15.0.0] /Users/unyscape/.gradle/caches/transforms-1/files-1.1/play-services-analytics-15.0.0.aar/a5c2de98cc4164d9f73363150915e4e3/AndroidManifest.xml:39:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:15.0.0] /Users/unyscape/.gradle/caches/transforms-1/files-1.1/play-services-analytics-15.0.0.aar/a5c2de98cc4164d9f73363150915e4e3/AndroidManifest.xml:37:13-77
+service#com.google.android.gms.analytics.AnalyticsJobService
+ADDED from [com.google.android.gms:play-services-analytics:15.0.0] /Users/unyscape/.gradle/caches/transforms-1/files-1.1/play-services-analytics-15.0.0.aar/a5c2de98cc4164d9f73363150915e4e3/AndroidManifest.xml:40:9-44:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-analytics:15.0.0] /Users/unyscape/.gradle/caches/transforms-1/files-1.1/play-services-analytics-15.0.0.aar/a5c2de98cc4164d9f73363150915e4e3/AndroidManifest.xml:42:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-analytics:15.0.0] /Users/unyscape/.gradle/caches/transforms-1/files-1.1/play-services-analytics-15.0.0.aar/a5c2de98cc4164d9f73363150915e4e3/AndroidManifest.xml:43:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-analytics:15.0.0] /Users/unyscape/.gradle/caches/transforms-1/files-1.1/play-services-analytics-15.0.0.aar/a5c2de98cc4164d9f73363150915e4e3/AndroidManifest.xml:44:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:15.0.0] /Users/unyscape/.gradle/caches/transforms-1/files-1.1/play-services-analytics-15.0.0.aar/a5c2de98cc4164d9f73363150915e4e3/AndroidManifest.xml:41:13-80
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:15.0.0] /Users/unyscape/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.0.aar/19c1b003258fcfacfa4bf6ccceca4a5f/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:15.0.0] /Users/unyscape/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.0.aar/19c1b003258fcfacfa4bf6ccceca4a5f/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:15.0.0] /Users/unyscape/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.0.aar/19c1b003258fcfacfa4bf6ccceca4a5f/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:15.0.0] /Users/unyscape/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.0.aar/19c1b003258fcfacfa4bf6ccceca4a5f/AndroidManifest.xml:24:13-79
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v4:26.1.0] /Users/unyscape/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/03f7b4285e84a5d3b3a6bca04c331949/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/unyscape/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/0903a2f0d2faa2fc0d50c7f0c728408b/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/unyscape/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/0903a2f0d2faa2fc0d50c7f0c728408b/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/unyscape/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/d541c88d7ffd31317cac118e8ded68e4/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/unyscape/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/d541c88d7ffd31317cac118e8ded68e4/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/unyscape/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/c2ae2c77933ae6f5f41f3e0352543a7e/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/unyscape/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/c2ae2c77933ae6f5f41f3e0352543a7e/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/unyscape/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/3fd5270a59c4bbb4e3feb5c457498389/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/unyscape/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/3fd5270a59c4bbb4e3feb5c457498389/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/unyscape/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/ee6690253ede12139f5837aeb0ef0580/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/unyscape/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/ee6690253ede12139f5837aeb0ef0580/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:support-v4:26.1.0] /Users/unyscape/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/03f7b4285e84a5d3b3a6bca04c331949/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:support-v4:26.1.0] /Users/unyscape/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/03f7b4285e84a5d3b3a6bca04c331949/AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/unyscape/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/ee0d2f0c9d3eaeaecd7b8ae9fa10a009/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/unyscape/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/ee0d2f0c9d3eaeaecd7b8ae9fa10a009/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/unyscape/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/ee0d2f0c9d3eaeaecd7b8ae9fa10a009/AndroidManifest.xml:26:13-58

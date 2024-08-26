@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/white"
+    android:orientation="vertical" >
+
+    <ImageView
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="@drawable/upper_logo"
+        android:contentDescription="@null" />
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1.2"
+        android:gravity="center"
+        android:orientation="horizontal" >
+
+        <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_marginTop="10dp" >
+
+            <EditText
+                android:visibility="gone"
+                android:id="@+id/etServer"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:hint="Enter server"
+                android:inputType="text"
+                android:textColor="@color/secondary_text"
+                android:textSize="14sp" />
+
+            <EditText
+                android:id="@+id/userNameEditText"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/etServer"
+                android:layout_marginTop="10dp"
+                android:drawableLeft="@drawable/default_user_blue"
+                android:drawablePadding="5dp"
+                android:hint="Username"
+                android:inputType="text"
+                android:textColor="@color/secondary_text"
+                android:textSize="14sp" />
+
+            <EditText
+                android:id="@+id/passwordNameEditText"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/userNameEditText"
+                android:layout_marginTop="5dp"
+                android:drawableLeft="@drawable/key_blue"
+                android:drawablePadding="5dp"
+                android:hint="Password"
+                android:inputType="textPassword"
+                android:textColor="@color/secondary_text"
+                android:textSize="14sp" />
+
+            <Button
+                android:id="@+id/submitButton"
+                android:layout_width="fill_parent"
+                android:layout_height="40dp"
+                android:layout_below="@+id/passwordNameEditText"
+                android:layout_marginTop="10dp"
+                android:background="@color/btn_bg"
+                android:gravity="center"
+                android:text="Sign in"
+                android:textColor="@color/white"
+                android:textSize="16sp" />
+
+            <CheckBox
+                android:id="@+id/remembars_me"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/submitButton"
+                android:layout_centerHorizontal="true"
+                android:layout_gravity="center"
+                android:layout_marginTop="5dp"
+                android:button="@drawable/selector_check"
+                android:drawablePadding="5dp"
+                android:gravity="center"
+                android:text="Remember Me"
+                android:textColor="@color/black" />
+
+            <TextView
+                android:id="@+id/tv_version_login"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/remembars_me"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="5dp"
+                android:gravity="center"
+                android:text="Version"
+                android:textColor="@color/orange"
+                android:textSize="16sp" />
+        </RelativeLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="5dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="5dp"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:id="@+id/tv_attendenceMode"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="Attendance Mode"
+            android:textColor="@color/btn_bg"
+            android:textSize="18sp" />
+
+        <ToggleButton
+            android:id="@+id/attendenceModeToggleButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/toggle_selector"
+            android:checked="false"
+            android:textOff=""
+            android:textOn="" />
+    </LinearLayout>
+
+</LinearLayout>

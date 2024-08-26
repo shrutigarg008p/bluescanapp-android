@@ -1,0 +1,3 @@
+# Referenced at /Users/unyscape/Desktop/Arpan_Workspace/SecurityApp7/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:27
+-keep class com.sixdegreesit.securityapp.GoogleAnalyticsApp { <init>(...); }
+

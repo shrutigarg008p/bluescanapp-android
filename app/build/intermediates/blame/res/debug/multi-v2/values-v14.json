@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/unyscape/Desktop/Arpan_Workspace/SecurityApp7/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v14/values-v14.xml",
+            "map": [
+                {
+                    "source": "/Users/unyscape/Desktop/Arpan_Workspace/SecurityApp7/app/src/main/res/values-v14/styles.xml",
+                    "from": {
+                        "startLines": "3,13,20,24",
+                        "startColumns": "5,4,4,5",
+                        "startOffsets": "54,379,626,866",
+                        "endLines": "10,17,23,26",
+                        "endColumns": "12,12,12,12",
+                        "endOffsets": "341,613,860,1033"
+                    },
+                    "to": {
+                        "startLines": "2,10,15,19",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,347,586,825",
+                        "endLines": "9,14,18,21",
+                        "endColumns": "12,12,12,12",
+                        "endOffsets": "342,581,820,992"
+                    }
+                }
+            ]
+        }
+    ]
+}

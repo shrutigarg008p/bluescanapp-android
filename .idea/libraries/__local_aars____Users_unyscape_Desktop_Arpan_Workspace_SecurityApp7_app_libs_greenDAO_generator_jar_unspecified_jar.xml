@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="__local_aars__:/Users/unyscape/Desktop/Arpan_Workspace/SecurityApp7/app/libs/greenDAO-generator.jar:unspecified@jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/greenDAO-generator.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/app/libs/greenDAO-generator-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>
